@@ -20,7 +20,7 @@ http://www.ssbbartgroup.com/
 
 
 
-WEI-ARIA
+WAI-ARIA
 
 http://maxdesign.com.au/jobs/sample-accessibility/10-notifications/index.html
 
