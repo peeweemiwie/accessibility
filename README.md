@@ -1,4 +1,4 @@
-# accessibility
+# Web Accessibility
 
 Informative links:
 
