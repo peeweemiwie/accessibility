@@ -19,8 +19,9 @@ A dynamic menu system might include the following ARIA markup:
 
 https://css-tricks.com/snippets/javascript/javascript-keycodes/
 
-    $("#textinput").keydown(function(e) {
+    $(window).keydown(function(e) {
         var x = e.which || e.keyCode;
+        console.log(x);
     });
     
 tab	9
