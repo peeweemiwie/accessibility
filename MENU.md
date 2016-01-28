@@ -18,3 +18,13 @@ A dynamic menu system might include the following ARIA markup:
 ## key codes
 
 https://css-tricks.com/snippets/javascript/javascript-keycodes/
+
+    $("#textinput").keydown(function(e) {
+        e.keyCode; // this value
+    });
+    
+tab	9
+
+enter	13
+
+(space)	32
