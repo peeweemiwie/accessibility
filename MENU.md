@@ -20,7 +20,7 @@ A dynamic menu system might include the following ARIA markup:
 https://css-tricks.com/snippets/javascript/javascript-keycodes/
 
     $("#textinput").keydown(function(e) {
-        e.keyCode; // this value
+        var x = e.which || e.keyCode;
     });
     
 tab	9
@@ -28,3 +28,5 @@ tab	9
 enter	13
 
 (space)	32
+
+escape	27
