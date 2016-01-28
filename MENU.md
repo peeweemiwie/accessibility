@@ -13,3 +13,8 @@ A dynamic menu system might include the following ARIA markup:
 `aria-haspopup="true"` on any item that triggers the display of a dropdown menu. This is typically applied to all top-level menubar items, and to any menu items that have sub-menus.
 
 `aria-hidden="true"` on each dropdown menu's container element, typically either a `<ul>` or `<div>`. When JavaScript is used to make the menu visible, it should also change this attribute to `aria-hidden="false"`.
+
+
+## key codes
+
+https://css-tricks.com/snippets/javascript/javascript-keycodes/
